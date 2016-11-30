@@ -14,7 +14,7 @@
 ?>
   
   </h1>
-<h2>Sample page - changed on Nov 25th to show hubert. Yay.</h2>
+<h2>Sample page - changed on Nov 29th.</h2>
 <?php
   /* Connect to MySQL and select the database. */
   $connection = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD);
