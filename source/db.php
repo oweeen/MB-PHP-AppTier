@@ -109,7 +109,7 @@ while($query_data = mysqli_fetch_row($result)) {
   
 
 <div align="left">
-    Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo.png" width="25%" height="25%" />
+    Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo_small.png" />
   </div>
 </body>
 </html>
