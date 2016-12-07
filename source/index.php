@@ -39,7 +39,7 @@
 
   <div align="center">
     <h1>Welcome to the Octank homepage!</h1>
-    <h2>This application was deployed using AWS CodeDeploy & Gitgub!</h2>
+    <h2>This application was deployed using AWS CodeDeploy & Github! Hi Hubert!</h2>
     <p></p>
     <h2><a href="db.php">Click here</a> to interact with the database</h2>
   </div>
