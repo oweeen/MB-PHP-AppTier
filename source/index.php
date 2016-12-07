@@ -24,7 +24,7 @@
   </style>
 </head>
 <body>
-  <h4>Website is currently served from region: 
+  <h4>This page is being served from region: 
 <?php
     $curl = curl_init();
     curl_setopt ($curl, CURLOPT_URL, "http://169.254.169.254/latest/meta-data/placement/availability-zone");
@@ -42,6 +42,9 @@
     <h2>This application was deployed using AWS CodeDeploy & Gitgub!</h2>
     <p></p>
     <h2><a href="db.php">Click here</a> to interact with the database</h2>
+  </div>
+  <div align="left">
+    Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo.png" width="25%" height="25%" />
   </div>
 </body>
 </html>
