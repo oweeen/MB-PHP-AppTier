@@ -2,7 +2,7 @@
 <html>
   <head>
   <meta charset="utf-8">
-  <title>Octank Homepage!</title>
+  <title>Octank Database!</title>
   <style>
     body {
       color: #ffffff;
@@ -39,7 +39,7 @@
 
   <div align="left">
 
-    <h2Using this page you can interact with the database</h2>
+    <h2>Using this page you can interact with the database</h2>
     <p></p>
   </div>
   
