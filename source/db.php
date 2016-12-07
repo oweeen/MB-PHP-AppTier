@@ -68,10 +68,10 @@
     </tr>
     <tr>
       <td>
-        <input type="text" name="Category" maxlength="45" size="30" />
+        <input type="text" name="Name" maxlength="45" size="30" />
       </td>
       <td>
-        <input type="text" name="Item" maxlength="90" size="60" />
+        <input type="text" name="Address" maxlength="90" size="60" />
       </td>
       <td>
         <input type="submit" value="Add Data" />
