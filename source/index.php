@@ -44,7 +44,7 @@
     <h2><a href="db.php">Click here</a> to interact with the database</h2>
   </div>
   <div align="left">
-    Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo.png" width="25%" height="25%" />
+    Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo_small.png" />
   </div>
 </body>
 </html>
