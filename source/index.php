@@ -43,7 +43,7 @@
     <p></p>
     <h2><a href="db.php">Click here</a> to interact with the database</h2>
     <p></p>
-    <img src="http://cdn.octank.owcloud.xyz/calvin_and_hobbes.jpg" />
+
   </div>
   <div align="left">
     Powered by - <img src="http://cdn.octank.owcloud.xyz/AWS_logo_small.png" />
